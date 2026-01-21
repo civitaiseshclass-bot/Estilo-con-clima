@@ -1,0 +1,7 @@
+{
+  "name": "Estilo Climático",
+  "description": "Tu asistente de moda personal impulsado por IA que genera propuestas de outfits visuales basadas en tu actividad y el clima actual.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
